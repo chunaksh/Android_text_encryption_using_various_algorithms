@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Encryption Hash App</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="copy">Copy</string>
+    <string name="reset">RESET</string>
+    <string name="advanced_encryption_standard">Advanced Encryption Standard</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="key">key</string>
+    <string name="your_output_gonna_be_here">Your output gonna be here</string>
+    <string name="your_matrix_key_gonna_be_here">Your Matrix Key gonna be here</string>
+    <string name="hash">Hash</string>
+</resources>
